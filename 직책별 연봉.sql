@@ -1,0 +1,1 @@
+select position, avg(salary) as average_salary from employees group by position;

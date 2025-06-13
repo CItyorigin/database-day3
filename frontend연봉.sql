@@ -1,0 +1,1 @@
+select * from employees where position = 'Frontend' and salary <= 90000;

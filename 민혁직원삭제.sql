@@ -1,0 +1,1 @@
+delete from employees where name = '민혁';
